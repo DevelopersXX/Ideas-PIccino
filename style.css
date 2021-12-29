@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2? family = Island + Moments & display = swap');
+
+
+
+body {
+    background-image: url(./images/Fondo.png);
+}
+
+.jumbotron {
+    background-image: url(/imagenes/plants-3997523_1920.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 856px;
+    margin: 0;
+}
+
+.text {
+    color: black;
+}
+
+.animacion {
+    color: transparent;
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: #000000;
+    -webkit-text-stroke-color: blanchedalmond;
+  }
+
+  .animacion {
+    text-shadow: 7px 7px #424242;
+  }
+
+a {
+    text-align: center;
+    padding: 15px;
+}
+
+h2 {
+    color: blanchedalmond;
+    text-align: center;
+    padding: 15px;
+    margin: 0;
+}
+
+.n-left {
+    height: 787px;
+    background-color: blanchedalmond;
+    margin: 0;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.n-right {
+    height: 500px;
+    margin: 0;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.text1 {
+    text-align: center;
+    font-size: 22px;
+    margin-top: 30%;
+    font-family: 'Island Moments', cursive;
+    padding: 10px;
+}
+
+footer {
+    display: flex;
+    align-self: flex-end;
+    margin-bottom: 0;
+}
